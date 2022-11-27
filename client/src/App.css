@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.main{
+  font-size: 30px;
+  text-align: center;
+  margin: 15px;
+}
+
+.gamelist {
+  border: 1px solid;
+  border-radius: 15px;
+  margin: 10px 25px;
+  padding-bottom: 10px;
+}
+
+.league_filter{
+  text-align: center;
+  margin : auto;
+}
